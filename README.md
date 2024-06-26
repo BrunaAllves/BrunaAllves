@@ -10,7 +10,7 @@
 </div>
 
 
-![snake gif](https://github.com/BrunaAllves/BrunaAllves/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BrunaAllves/BrunaAllves/blob/output/github-contribution-grid-snake-dark.svg
 
  <a href = "mailto:brunallvesrd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruna.st_rodrigues?igsh=MWt1ZjlkeXA1Zm1xYQ==) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-rodrigues-dos-santos-alves/)
 
