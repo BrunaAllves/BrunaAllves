@@ -9,8 +9,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaAllves&layout=compact&hide_border=true&title_color=DB7093&text_color=FF69B4&bg_color=0d1117" />
 </div>
 
-![snake gif](https://github.com/BrunaAllves/BrunaAllves/blob/output/github-contribution-grid-snake.gif)
-
  <a href = "mailto:brunallvesrd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruna.st_rodrigues?igsh=MWt1ZjlkeXA1Zm1xYQ==) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-rodrigues-dos-santos-alves/)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunaAllves&bg_color=0d1117&color=9e4c98&line=e57093&point=ff80c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
